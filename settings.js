@@ -18,13 +18,13 @@ global.autoketik = true //status auto mengetik (auto typing)
 global.available = false //status online (online)
 
 // Other
-global.botname = "KATSUBOTZོ"
-global.ownername= "KATSUBOTZ OFC ×፝֟͜×"
+global.botname = "ROHISBOTZོ"
+global.ownername= "ROHISGANZ ×፝֟͜×"
 global.myweb ="https://api-alphabot.herokuapp.com/"
 global.youtube = "https://youtube.com/c/ZeeoneOfc"
-global.github = "https://zeeoneofc.github.io/"
-global.ownernomer = "6285290270235"
-global.ownernomerr = "+6285290270235"
+global.github = "https://github.com/Rohisbo"
+global.ownernomer = "6288212465570"
+global.ownernomerr = "+6288212465570"
 global.thumbnail = "./image/lol.jpg"
 global.donasi = "./image/donasi.jpg"
 global.background_welcome="https://telegra.ph/file/90a931648de597820bc08.jpg" // maks size 30kb, agar welcome image nya tdk delay
